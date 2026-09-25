@@ -1,0 +1,51 @@
+# SchemeConnect
+
+A web-based administrative platform for managing
+government welfare and subsidy programs.
+
+## Features
+
+- Beneficiary Records
+- Welfare Performance Analytics
+- Governance Audit Center
+- Circular Sync
+
+## Tech Stack
+
+Frontend:
+- HTML
+- CSS
+- JavaScript
+
+Backend:
+- Node.js
+- Express.js
+
+Database:
+- ...
+
+## Project Structure
+
+SchemeConnect/
+├── public/
+├── src/
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   └── ...
+├── package.json
+└── README.md
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js
+- ...
+
+### Installation
+
+```bash
+git clone ...
+cd SchemeConnect
+npm install
